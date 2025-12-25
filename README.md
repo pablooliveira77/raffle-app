@@ -122,18 +122,11 @@ npm run build
 npm start
 ```
 
-## 🌐 Deploy on Vercel
+## 🌐 Project Deployment
 
-The easiest way to deploy this app is using [Vercel](https://vercel.com/):
+To access the complete project, click on the link below:
 
-1. Push your code to GitHub, GitLab, or Bitbucket
-2. Import your repository on [Vercel](https://vercel.com/new)
-3. Vercel will automatically detect Next.js and configure the build
-4. Click "Deploy"
-
-Your app will be live in seconds! ✨
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/raffle-app)
+[Raffle App](https://raffle-app-smoky.vercel.app/)
 
 ## 🎮 How to Use
 
