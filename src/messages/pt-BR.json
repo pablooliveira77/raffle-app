@@ -1,0 +1,42 @@
+{
+  "app": {
+    "title": "Aplicativo de Sorteio",
+    "description": "Gerencie participantes e realize sorteios com histórico."
+  },
+  "header": {
+    "title": "Sorteio",
+    "subtitle": "Adicione participantes, faça sorteios e acompanhe o histórico.",
+    "themeToggle": "Alternar tema",
+    "languageLabel": "Idioma"
+  },
+  "participants": {
+    "title": "Participantes",
+    "empty": "Nenhum participante ainda.",
+    "count": "{count, number} participante(s)",
+    "addButton": "Adicionar participantes",
+    "addModalTitle": "Adicionar participantes",
+    "addModalDescription": "Informe um participante por linha.",
+    "textareaLabel": "Participantes (um por linha)",
+    "textareaPlaceholder": "João\nMaria\nLucas",
+    "confirm": "Adicionar",
+    "cancel": "Cancelar"
+  },
+  "raffle": {
+    "drawOne": "Sortear um",
+    "drawAll": "Sortear todos",
+    "reset": "Reiniciar sorteio",
+    "drawing": "Sorteando participante...",
+    "noParticipants": "Não há participantes para sortear.",
+    "resultTitle": "Resultado do sorteio",
+    "drawnParticipantLabel": "Participante sorteado",
+    "close": "Fechar"
+  },
+  "history": {
+    "title": "Histórico do sorteio",
+    "empty": "Nenhum sorteio realizado ainda.",
+    "item": "{position, number}° {name}"
+  },
+  "status": {
+    "loading": "Carregando dados do sorteio..."
+  }
+}

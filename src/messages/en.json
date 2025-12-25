@@ -1,0 +1,42 @@
+{
+  "app": {
+    "title": "Raffle Draw App",
+    "description": "Manage participants and run raffles with history."
+  },
+  "header": {
+    "title": "Raffle",
+    "subtitle": "Add participants, draw randomly and track history.",
+    "themeToggle": "Toggle theme",
+    "languageLabel": "Language"
+  },
+  "participants": {
+    "title": "Participants",
+    "empty": "No participants yet.",
+    "count": "{count, number} participant(s)",
+    "addButton": "Add participants",
+    "addModalTitle": "Add participants",
+    "addModalDescription": "Enter one participant per line.",
+    "textareaLabel": "Participants (one per line)",
+    "textareaPlaceholder": "John\nMary\nLucas",
+    "confirm": "Add",
+    "cancel": "Cancel"
+  },
+  "raffle": {
+    "drawOne": "Draw one",
+    "drawAll": "Draw all",
+    "reset": "Reset raffle",
+    "drawing": "Drawing participant...",
+    "noParticipants": "There are no participants to draw.",
+    "resultTitle": "Draw result",
+    "drawnParticipantLabel": "Drawn participant",
+    "close": "Close"
+  },
+  "history": {
+    "title": "Draw history",
+    "empty": "No draws yet.",
+    "item": "{position, number}° {name}"
+  },
+  "status": {
+    "loading": "Loading raffle data..."
+  }
+}
